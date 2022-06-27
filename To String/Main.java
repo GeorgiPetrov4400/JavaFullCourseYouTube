@@ -1,0 +1,12 @@
+package JavaFullCourseYoutube.ToString;
+
+public class Main {
+    public static void main(String[] args) {
+
+        Car car = new Car();
+
+        System.out.println(car.toString());
+        System.out.println();
+        System.out.println(car);
+    }
+}
